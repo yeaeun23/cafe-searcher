@@ -1,9 +1,18 @@
 # cafe-searcher
 
-## 1. 기능
-- 웹서비스 호출 및 파싱 
+* 개발 100%
+* 디자인 100%
 
-## 2. 화면 예시
+## 1. 기능
+- API 호출 및 파싱 
+
+## 2. 사용 API (15년 12월 기준)
+* 서울 열린데이터 광장 : http://data.seoul.go.kr
+* 네이버 지도 : http://developer.naver.com/wiki/pages/MapAPI
+* 네이버 이미지 검색 : http://developer.naver.com/wiki/pages/SrchImage
+* 네이버 블로그 검색 : http://developer.naver.com/wiki/pages/Blog
+
+## 3. 화면 예시
 
 * <b>지역별 카페 리스트</b>
 
@@ -20,9 +29,3 @@
 * <b>리뷰 검색</b>
 
 ![image04](https://user-images.githubusercontent.com/14077108/135650713-3796192d-163c-46ce-965f-47e179515af1.png)
-
-## 3. API 참고
-* 서울 열린데이터 광장 : http://data.seoul.go.kr
-* 네이버 지도 : http://developer.naver.com/wiki/pages/MapAPI
-* 네이버 이미지 검색 : http://developer.naver.com/wiki/pages/SrchImage
-* 네이버 블로그 검색 : http://developer.naver.com/wiki/pages/Blog
